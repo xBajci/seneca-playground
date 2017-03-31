@@ -1,0 +1,17 @@
+{
+  "name": "seneca-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Bajcar <martin@sensible.io>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "seneca": "^3.3.0",
+    "seneca-balance-client": "^0.6.0",
+    "seneca-mesh": "^0.10.0"
+  }
+}
